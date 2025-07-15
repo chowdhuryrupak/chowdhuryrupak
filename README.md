@@ -60,8 +60,8 @@
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupak007&show_icons=true&theme=radical" alt="Rupak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak007&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chowdhuryrupak&show_icons=true&theme=radical" alt="Rupak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowdhuryrupak&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
