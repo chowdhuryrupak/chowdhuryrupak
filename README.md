@@ -68,8 +68,8 @@
 
 📫 **Let's Connect!**
 
-- 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- 🌐 Portfolio: [https://chowdhuryrupak.github.io/Rupak_Portfolio_/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rupak-chowdhury1]
 - 📬 Email: [chowdhuryrupak56@email.com](mailto:chowdhuryrupak56@email.com)
 
 ---
